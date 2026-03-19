@@ -1,0 +1,5 @@
+{
+  "name": "BMI & BSA Calculator",
+  "description": "A clean, modern utility to calculate Body Mass Index (BMI) and Body Surface Area (BSA) from height and weight.",
+  "requestFramePermissions": []
+}
